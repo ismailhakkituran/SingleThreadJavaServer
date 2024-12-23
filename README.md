@@ -35,4 +35,4 @@ Move the generated `Subscriber.java` file `$PROJECTDIR/src/main/java/org/example
 
  2. To hit the `Relaod the project` under the `Maven` section of your project.
 
-![Screencast]([https://drive.google.com/file/d/1LWR6-pPXQYZVl3mUMHYXIEd0MF7opCE7/view?usp=sharing](https://drive.google.com/file/d/1LWR6-pPXQYZVl3mUMHYXIEd0MF7opCE7/view)
+[![How to](https://drive.google.com/file/d/1DtbSzbrtSvgcDLx2dFmv-tQFMJjrgDlt/)](https://drive.google.com/file/d/1LWR6-pPXQYZVl3mUMHYXIEd0MF7opCE7/view)
