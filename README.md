@@ -3,7 +3,7 @@ Single Thread Java Server
 
 A Single thread java application waits for a Subscriber object using [Google Protocol Buffer](https://protobuf.dev/)
 
-Downloadling protobuf compiler
+Downloading protobuf compiler
 
 ~~~shell
 $> sudo apt-get install protobuf-compiler
@@ -18,7 +18,7 @@ Output should be sth like:
 ~~~shell
 libprotoc 3.12.4
 ~~~
-So you should use 3.xx versions of libraries in maven for Java, gem for Ruby and pip for python
+So you should use 3.xx versions of libraries in maven for Java, gem for Ruby and pip for Python
 
 Use protobuf compiler to generate specific programming language classes. Compile the `subscriber.proto` file in `$PROJECTDIR/src/main/proto`
 ~~~shell
@@ -31,8 +31,8 @@ Move the generated `Subscriber.java` file `$PROJECTDIR/src/main/java/org/example
 
  1. To build the project especially after generating a `.java` file from `.proto` files:
 
-![Screenshot](./Build the project.png)
+![Screenshot](https://github.com/ismailhakkituran/SingleThreadJavaServer/blob/main/Build%20the%20project.png)
 
  2. To hit the `Relaod the project` under the `Maven` section of your project.
 
-![Screencast](./Reload the project.webm)
+[![How to](https://github.com/ismailhakkituran/SingleThreadJavaServer/blob/main/play-video.png)](https://drive.google.com/file/d/1LWR6-pPXQYZVl3mUMHYXIEd0MF7opCE7/view)
